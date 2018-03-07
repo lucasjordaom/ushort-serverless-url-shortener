@@ -1,3 +1,5 @@
+![U Short](https://raw.githubusercontent.com/lucasjordaoeou/serverless-url-shortener/master/docs/images/u-short-capa-768x418.png)
+
 # Serverless URL Shortener
 
 This repo contains components for a proof of concept URL shortner service running on Amazon's API Gateway and Lambda services.

@@ -1,4 +1,4 @@
-![U Short](https://raw.githubusercontent.com/lucasjordaoeou/serverless-url-shortener/master/docs/images/u-short-capa-768x418.png)
+![U Short](https://raw.githubusercontent.com/lucasjordaom/ushort-serverless-url-shortener/master/docs/images/u-short-capa-768x418.png)
 
 # Serverless URL Shortener
 
@@ -11,11 +11,11 @@ Esse projeto, inspirado em um [post](https://aws.amazon.com/blogs/compute/build-
 
 A imagem a seguir mostra a página de administração.
 
-![U Short](https://raw.githubusercontent.com/lucasjordaoeou/serverless-url-shortener/master/docs/images/urlshortener_admin-300x198.png)
+![U Short](https://raw.githubusercontent.com/lucasjordaom/ushort-serverless-url-shortener/master/docs/images/urlshortener_admin-300x198.png)
 
 Este mostra um URL curto gerado pronto para copiar e colar.
 
-![U Short](https://raw.githubusercontent.com/lucasjordaoeou/serverless-url-shortener/master/docs/images/urlshortener_url.png)
+![U Short](https://raw.githubusercontent.com/lucasjordaom/ushort-serverless-url-shortener/master/docs/images/urlshortener_url.png)
 
 ## Usando o mecanismo de redirecionamento
 
@@ -39,7 +39,7 @@ Para evitar a configuração do CORS e ter um nome de domínio simples e amigáv
 
 Diagrama original do processo:
 
-![U Short](https://raw.githubusercontent.com/lucasjordaoeou/serverless-url-shortener/master/docs/images/diagrama-antigo.png)
+![U Short](https://raw.githubusercontent.com/lucasjordaom/ushort-serverless-url-shortener/master/docs/images/diagrama-antigo.png)
 
 ## Considerações sobre arquitetura e custos
 
@@ -60,7 +60,7 @@ Modificamos as chamadas da API, e alem de POST que retorna um Json com os dados,
 
 Diagrama customizado do processo:
 
-![U Short](https://raw.githubusercontent.com/lucasjordaoeou/serverless-url-shortener/master/docs/images/diagrama-custom.png)
+![U Short](https://raw.githubusercontent.com/lucasjordaom/ushort-serverless-url-shortener/master/docs/images/diagrama-custom.png)
 
 This repo contains components for a proof of concept URL shortner service running on Amazon's API Gateway and Lambda services.
 

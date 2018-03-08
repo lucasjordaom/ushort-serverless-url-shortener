@@ -62,6 +62,12 @@ Diagrama customizado do processo:
 
 ![U Short](https://raw.githubusercontent.com/lucasjordaom/ushort-serverless-url-shortener/master/docs/images/diagrama-custom.png)
 
+## Integração realizada com o Mautic 
+
+Com a integração feita, é possivel enviar sms e email marketing com os links encurtados, facilitando a leitura.
+
+![U Short](https://raw.githubusercontent.com/lucasjordaom/ushort-serverless-url-shortener/master/docs/images/mobile-sms.png)
+
 This repo contains components for a proof of concept URL shortner service running on Amazon's API Gateway and Lambda services.
 
 Related blog post: [Build a Serverless, Private URL Shortener](https://aws.amazon.com/pt/blogs/compute/build-a-serverless-private-url-shortener/)
